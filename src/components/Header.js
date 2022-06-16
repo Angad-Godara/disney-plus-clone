@@ -99,3 +99,5 @@ const UserImg = styled.img`
     border-radius: 50%;
     cursor: pointer;
 `
+
+// after adds a div after the container
